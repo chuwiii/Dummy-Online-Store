@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dummy-Online-Store/static/css/main.6be926a1.css",
+    "main.js": "/Dummy-Online-Store/static/js/main.fc1f710a.js",
+    "index.html": "/Dummy-Online-Store/index.html",
+    "main.6be926a1.css.map": "/Dummy-Online-Store/static/css/main.6be926a1.css.map",
+    "main.fc1f710a.js.map": "/Dummy-Online-Store/static/js/main.fc1f710a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be926a1.css",
+    "static/js/main.fc1f710a.js"
+  ]
+}
